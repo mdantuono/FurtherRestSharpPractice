@@ -1,0 +1,10 @@
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\bin\Debug\RestSharp.dll
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\bin\Debug\RestSharp.xml
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mikei.LAPTOP-HB3PJHUC\source\repos\FurtherRestSharpPractice\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
