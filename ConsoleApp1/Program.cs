@@ -14,8 +14,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string status = "This tweet was posted using RestSharp.";
-            var client = new RestClient("https://api.twitter.com/1.1");
+            var client = new RestClient("https://twitter.com");
             var request = new RestRequest("/statuses/update", Method.POST);
+            request.AddParameter("name", "Mike_DAntuono");
             request.AddParameter("status", status);
 
 
